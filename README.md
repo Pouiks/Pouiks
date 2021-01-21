@@ -1,16 +1,16 @@
-Hi there :wave:
+# Hi there :wave:
 
 ![Cover](https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png)
 
-Welcome on my GitHub Profil, let's introduce myslef.
+## Welcome on my GitHub Profil.
 
-:construction: Je suis actuellement en train de travailler sur une application web de "Do it yourself", des tutos en tout genre pour n'importe qui !
-( React / Redux / WebPack & Babel / NodeJs / Express / Sqitch / Joi ) 
+#### :construction:I am currently working on a "Do it yourself" web application, all kinds of tutorials for anyone!
+*(React / Redux / WebPack & Babel / NodeJs / Express / Sqitch / Joi) !*
 
-Dernier projet : Application Web MeetMyPet. Faire se rencontrer les propriétaires d'animaux  :cat: :dog: :horse:
+#### Latest project: MeetMyPet Web Application. Meet pet owners
 
-Je me tourne dès que j'ai un peu de temps en ce moment vers du Vue.Js et MongoDB
+#### I turn when I have a little time right now to Vue.Js and MongoDB
 
-:open_hands: Ouvert aux propositions de collaboration, je suis aussi à la recherche d'un stage ou d'un emploi en tant que developpeur Web, peut importe la technologie ( je m'adapterai !)
+#### :open_hands: Open to collaboration proposals, I am also looking for an internship or a job as a web developer, whatever the technology (I will adapt!)
 
-:incoming_envelope: N'hésitez pas à me MP pour toute éventuelle question
+:incoming_envelope: Do not hesitate to contact me MP for any questions

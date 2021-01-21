@@ -9,7 +9,7 @@
 #### :construction:I am currently working on a "Do it yourself" web application, all kinds of tutorials for anyone!
 *(React / Redux / WebPack & Babel / NodeJs / Express / Sqitch / Joi) !*
 
-#### Latest project: MeetMyPet Web Application. Meet pet owners
+#### Latest project: MeetMyPet Web Application. Meet pet owners :cat: :dog: :horse:
 
 #### I turn when I have a little time right now to Vue.Js and MongoDB
 

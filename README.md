@@ -1,6 +1,6 @@
 Hi there :wave:
 
-![Cover](https://github.com/VirgileJoinville/VirgileJoinville/img/header.png)
+![Cover](https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png)
 
 Welcome on my GitHub Profil, let's introduce myslef.
 

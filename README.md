@@ -1,8 +1,9 @@
 # Hi there :wave:
 
 ![Cover](https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png)
-
-<div style="margin-left: 30%"><img src="https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png" /></div>
+<p align="center">
+  <img src="https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png" />
+</p>
 
 ## Welcome on my GitHub Profil.
 

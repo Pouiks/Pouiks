@@ -1,5 +1,7 @@
 Hi there :wave:
 
+![Cover](https://github.com/VirgileJoinville/VirgileJoinville/blob/master/img/header.png)
+
 Welcome on my GitHub Profil, let's introduce myslef.
 
 :construction: Je suis actuellement en train de travailler sur une application web de "Do it yourself", des tutos en tout genre pour n'importe qui !

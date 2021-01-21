@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png)
 
-<div style="text-align:center"><img src="https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png" /></div>
+<div style="margin-left: 30%"><img src="https://github.com/Pouiks/VirgileJoinville/blob/main/img/header.png" /></div>
 
 ## Welcome on my GitHub Profil.
 
